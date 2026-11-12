@@ -1,0 +1,14 @@
+[
+    {
+        "title": "coffee",
+        "amount": 120.0,
+        "category": "Food",
+        "date": "2026-11-11"
+    },
+    {
+        "title": "Shoes",
+        "amount": 850.0,
+        "category": "Shopping",
+        "date": "2026-11-11"
+    }
+]
